@@ -1,3 +1,9 @@
+<div align="center">
+  <div style="width: 100%; max-height: 200px; overflow: hidden; display: flex; justify-content: center;">
+    <img src="https://i.postimg.cc/HkYYZv88/egyptian-pyramids-5120x2880-17847.jpg" alt="Banner" style="width: 100%; object-fit: cover; object-position: top;">
+  </div>
+</div>
+
 <h1 align="center">Hi 👋, I'm Lυηα☾N𝒊𝑔нт</h1>
 <h3 align="center">Ethical chaos engineer.</h3>
 
