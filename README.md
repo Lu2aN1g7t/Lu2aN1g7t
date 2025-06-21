@@ -1,6 +1,6 @@
 <div align="center">
-  <div style="width: 100%; max-height: 150px; overflow: hidden; display: flex; justify-content: center;">
-    <img src="https://i.postimg.cc/HkYYZv88/egyptian-pyramids-5120x2880-17847.jpg" alt="Banner" style="width: 100%; height: 150px; object-fit: contain; object-position: top;">
+  <div style="width: 100%; max-height: 100px; overflow: hidden; display: flex; justify-content: center;">
+    <img src="https://i.postimg.cc/HkYYZv88/egyptian-pyramids-5120x2880-17847.jpg" alt="Banner" style="width: 100%; height: 100px; object-fit: contain; object-position: top;">
   </div>
 </div>
 
