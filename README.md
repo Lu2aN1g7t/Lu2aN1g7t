@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lυηα☾N𝒊𝑔нт</h1>
 <h3 align="center">Ethical chaos engineer.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
